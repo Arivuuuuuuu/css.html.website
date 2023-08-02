@@ -1,0 +1,61 @@
+.container{
+    background:linear-gradient(130deg,orange,red);
+
+    
+}
+.values{
+    float: right;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 70px;
+   
+    
+}
+.container-fluid{
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+.signal{
+    color: orangered;
+    width: 200px;
+    height: 300px;
+}
+.globe{
+    color: orangered;
+    width: 200px;
+    height: 300px;
+
+}
+
+.logo {
+    font-size: 200px;
+    color: orangered;
+    width: 50px;
+    height: 50px;
+  }
+  @media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+  }
+  .my-0-fw-normal{
+    background-color: orangered;
+    background-size: 150px;
+    background-repeat: no-repeat;
+    color:white;
+    
+    
+  }
+  
+
+
+
+    
+    
+
+
+
+    
